@@ -89,4 +89,4 @@ Change from the day before to the day of the event: -0.39%
 Change from the day of the event to the day after: -0.11%
 
 These percentage changes indicate the immediate market response to each event. While not all events lead to significant price movements, understanding these fluctuations helps analyze the market's sensitivity to news and external factors.
-
+![Screenshot (14)](https://github.com/Harry1sol/Bitcoin_2021/assets/162426151/7eaf4859-25ff-4d6f-872e-4831cbbdf2a5)
