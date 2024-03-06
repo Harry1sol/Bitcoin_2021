@@ -1,0 +1,12 @@
+Date,Event Category,Event Description,Observed Impact.1,Percentage Change
+12-11-2021,Bitcoin Event,Voyager Digital files for bankruptcy,Negative,-0.739698058
+12-12-2021,Bitcoin Event,Celsius Network declares bankruptcy,Negative,-5.31785652
+12-01-2022,Bitcoin Event,FTX files for Chapter 11 bankruptcy,Negative,-0.337620854
+12-02-2022,Bitcoin Event,BlockFi files for Chapter 11 bankruptcy,Negative,-0.496185107
+12-03-2022,COVID-19 Event,Omicron surge leads to global restrictions,Market volatile,-2.436678093
+12-04-2022,COVID-19 Event,COVID-19 vaccines updated for Omicron,Positive,4.161814165
+12-05-2022,COVID-19 Event,Countries begin lifting COVID-19 restrictions,Positive,1.198312795
+12-06-2022,COVID-19 Event,New COVID-19 variants monitored,No change,-20.7096404
+12-07-2022,COVID-19 Event,COVID-19 becomes endemic in some regions,Positive,1.209368293
+12-08-2022,COVID-19 Event,New COVID-19 variants monitored,No change,1.947358821
+12-09-2022,COVID-19 Event,COVID-19 becomes endemic in some regions,Positive,-6.764350787
